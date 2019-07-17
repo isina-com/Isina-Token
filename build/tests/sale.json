@@ -1,0 +1,13 @@
+{
+  "coverage": {},
+  "result": "passing",
+  "sha1": {
+    "build/contracts/ERC20.json": "e0bba99020b178e7088343aa3c0b95a0c6ed023c",
+    "build/contracts/ERC20Detailed.json": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "build/contracts/IERC20.json": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "build/contracts/IsinaToken.json": "64ed05262a12bb9e2322053ae5f35ba65a814679",
+    "build/contracts/Ownable.json": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "build/contracts/SafeMath.json": "6a4e50082e63bd02c08dca4b5ccfe3c02c5ba3d6",
+    "tests/sale.py": "ea530d236eddeab139e58646bf577a4fa190ef08"
+  }
+}
